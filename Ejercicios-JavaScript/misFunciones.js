@@ -23,7 +23,7 @@ function cambiarUnidades(id,valor){
         yarda= 1.09361*valor;
     }else if(id=="pulgada"){
         pulgada= value
-        metro = 0,0254*valor;
+        metro = 0.0254*valor;
         pie = 0.0833333*valor;
         yarda= 0.0277778*valor;
     }else if(id=="pie"){
